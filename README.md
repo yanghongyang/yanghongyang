@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 I will be a graduate student specialized in Software Engineering this fall.
 - 🌱 I’m currently learning algorithms and data structures.
 - 📫 How to reach me: 
   - [My leetcode page](https://leetcode-cn.com/u/hongyang-yang/)
   - [My Blog](https://yanghongyang.github.io/)
-  
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
