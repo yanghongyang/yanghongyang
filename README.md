@@ -21,4 +21,7 @@ Here are some ideas to get you started:
   - [My Blog](https://yanghongyang.github.io/)
 
 <!--START_SECTION:waka-->
+```text
+C++   9 hrs 2 mins    █████████████████████████   100.00 %
+```
 <!--END_SECTION:waka-->
