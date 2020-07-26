@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 * 🎓 I will be a graduate student specialized in Software Engineering this fall.
 * 👀 I’m currently focusing on **web development**.
 * 😍 Loves C, C++, JavaScript, Cooking && Music. Also 💖 animation of course!
+* 📒 [My leetcode page](https://leetcode-cn.com/u/hongyang-yang/)
+* 📓 [My Blog](https://yanghongyang.github.io/)
 
-
-## 📫 Learn More
-* [My leetcode page](https://leetcode-cn.com/u/hongyang-yang/)
-* [My Blog](https://yanghongyang.github.io/)
 
 <!--START_SECTION:waka-->
 ```text
