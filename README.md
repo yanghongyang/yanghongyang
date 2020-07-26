@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...d
 -->
 ### 🚀About
+- 👩 I'm a Chinese girl and my Chinese name is ‘**杨洪洋**’. Feel free to call me '**Hongyang**' instead!
 - 🎓 I will be a graduate student specialized in Software Engineering this fall.
 - 👀 I’m currently focusing on **web development**.
 - 😍 Loves C, C++, JavaScript, Cooking && Music
