@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...d
 -->
 ## 🚀About
-* 👩 I'm a Chinese girl and my Chinese name is ‘**杨洪洋**’. Feel free to call me '**Hongyang**' instead!
+* 👩 I'm a Chinese girl and my Chinese name is ‘**Yang Hongyang**’. Feel free to call me '**Hongyang**' instead!
 * 🎓 I will be a graduate student specialized in Software Engineering this fall.
-* 👀 I’m currently focusing on **web development**.
+* 👀 I’m currently focusing on computer basic ideas, such as **Operating Systems** and **Data Structures**.
 * 😍 Loves C, C++, JavaScript, Cooking && Music. Also 💖 animation of course!
 * 📒 [My leetcode page](https://leetcode-cn.com/u/hongyang-yang/)
 * 📓 [My Blog](https://yanghongyang.github.io/)
