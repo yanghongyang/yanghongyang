@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 * 😍 没有擅长的语言，但是一般使用 `C` 、`C++` 写程序（做题），会一定的 `JavaScript` ，擅长做饭和古典音乐，喜爱动漫。
 * 📒 [我的力扣主页](https://leetcode-cn.com/u/xian-yu-zhi-wang/)
 * 📓 [我的博客](https://yanghongyang.github.io/)
+
+[![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghongyang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghongyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
