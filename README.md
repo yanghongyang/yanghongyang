@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * 🎓 将会在2021年秋天入学，方向：软件工程。
 * 👀 现在在学习 Java 和相关流行的框架，比如 Spring 。
 * 🌱 熟悉 C, C++, 和 Java ，平时一般用 C++ 做力扣题，当前正打算改用 Java 刷题（提高熟练度）。
-* 😍 喜爱做饭和听古典音乐，最爱马勒第五交响曲。喜欢看动漫。
+* 😍 喜爱做饭和听古典音乐，最爱马勒第五交响曲。喜欢看动漫。小提琴10年入门菜鸡（拉个响我还是会的）
 * 📒 [我的力扣主页](https://leetcode-cn.com/u/xian-yu-zhi-wang/)
 * 📓 [我的博客](https://yanghongyang.github.io/)
 
