@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 * 👩 I'm a Chinese girl and my Chinese name is ‘**Yang Hongyang**’. Feel free to call me '**Hongyang**' instead!
 * 🎓 I will be a graduate student specialized in Software Engineering this fall.
 * 👀 I’m currently focusing on popular **Java Framework**, such as **Spring**.
-* 🌱 Familiar with C, C++, Java. Usually use C++ to solve problems on (LeetCode)[https://leetcode.com/] and now is trying to replace it with Java.
+* 🌱 Familiar with C, C++, Java. Usually use C++ to solve problems on [LeetCode](https://leetcode.com/) and now is trying to replace it with Java.
 * 😍 Loves Cooking && Listenning to classical music. Loves **Symphony No.5 by Gustav Mahler**. Also 💖 animation of course!
 * 📒 [My leetcode page](https://leetcode-cn.com/u/xian-yu-zhi-wang/)
-* 📓 [My Blog](https://yanghongyang.github.io/)
+* 📓 [My Blog](http://sakuraame.top/)
 
 为了防止某些误解，写下中文的自我介绍。
 
