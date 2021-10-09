@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...d
 -->
 ## 🚀About
-* 👩 I'm a Chinese girl and my Chinese name is ‘**Yang Hongyang**’. Feel free to call me '**Hongyang**' instead!
+* 👩 I'm a Chinese girl and my name is ‘**Yang Hongyang**’. Feel free to call me '**Hongyang**' instead!
 * 🎓 I am a graduate student specialized in Software Engineering, and will be graduate in 2023.
 * 👀 I’m currently focusing on popular **Java Framework**, such as **Spring**.
 * 🌱 Familiar with C, C++, Java. Usually use C++ to solve problems on [LeetCode](https://leetcode.com/) and now is trying to replace it with Java.
