@@ -16,22 +16,14 @@ Here are some ideas to get you started:
 ## 🚀About
 * 👩 I'm a Chinese girl and my name is ‘**Yang Hongyang**’. Feel free to call me '**Hongyang**' instead!
 * 🎓 I am a graduate student specialized in Software Engineering, and will be graduate in 2023.
-* 👀 I’m currently focusing on popular **Java Framework**, such as **Spring**.
-* 🌱 Familiar with C, C++, Java. Usually use C++ to solve problems on [LeetCode](https://leetcode.com/) and now is trying to replace it with Java.
 * 😍 Loves Cooking && Listenning to classical music. Loves **Symphony No.5 by Gustav Mahler**. Also 💖 animation of course!
-* 📒 [My leetcode page](https://leetcode-cn.com/u/xian-yu-zhi-wang/)
-* 📓 [My Blog](http://sakuraame.top/)
 
 为了防止某些误解，写下中文的自我介绍。
 
 ## 🚀关于
 * 👩 中国人，随便称呼~ 
 * 🎓 于2021年9月入学，方向：软件工程，毕业时间：2023年。
-* 👀 现在在学习 Java 和相关流行的框架，比如 Spring 。
-* 🌱 熟悉 C, C++, 和 Java ，平时一般用 C++ 做力扣题，当前正打算改用 Java 刷题（提高熟练度）。
 * 😍 喜爱做饭和听古典音乐，最爱马勒第五交响曲。喜欢看动漫。小提琴10年入门菜鸡（拉个响我还是会的）
-* 📒 [我的力扣主页](https://leetcode-cn.com/u/xian-yu-zhi-wang/)
-* 📓 [我的博客](https://yanghongyang.github.io/)
 
 [![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghongyang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
