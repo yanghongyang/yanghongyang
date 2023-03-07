@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghongyang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghongyang&layout=compact&count_private=true&hide=rich%20text%20format)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanghongyang&layout=compact&count_private=true&hide=rich%20text%20format,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yanghongyang)](https://github.com/ryo-ma/github-profile-trophy)
 
